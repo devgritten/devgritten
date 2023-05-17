@@ -1,7 +1,6 @@
 ## Felipe Gritten 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0089D6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-gritten-2ba033140/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgritten&show_icons=true&theme=dark)
 
 ## Tecnologias mais utilizadas
 
